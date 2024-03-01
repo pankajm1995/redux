@@ -1,5 +1,5 @@
 import './App.css';
-import Homecontainer from './Container/Homecontainers'
+import Homecontainer from './Container/Homecontainers';
 function App() {
   return (
     <div className="App">

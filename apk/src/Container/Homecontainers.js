@@ -1,6 +1,6 @@
 import Home from '../Component/Home';
 import {connect} from 'react-redux'
-import {ADD_TO_CART} from '../Service/Constains'
+import {ADD_TO_CART} from '../Services/Constains'
 
 const mapstateToProps= state=>({
 

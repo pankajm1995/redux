@@ -1,5 +1,5 @@
 import React from "react"
-import { addToCart } from "../Service/Action/Actions"
+import { addToCart } from "../Services/Actions/Action"
 
 
 function Home() {
